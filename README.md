@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusacosta&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusacosta" /> </p>
 
-- 🔭 I’m currently working on **ML algorithm for evaluating football players**
+- 🔭 I’m currently working on **ML algorithm for football players evaluation**
 
 - 🌱 I’m currently learning **Deep Learning frameworks**
 
